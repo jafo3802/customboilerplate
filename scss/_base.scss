@@ -1,0 +1,41 @@
+//authur styles
+
+body{
+
+    background: $basecolor;
+    font-family: $basefont;
+}//body
+
+//nesting
+header{
+    @include box;
+    h1{
+        font-family: $headfont;
+    }//h1 
+}//header
+
+nav{
+    @include box;
+    text-align: center;
+
+    ul{
+        margin-left: -40px;//take away indent
+        li{
+            list-style: none;//take away bullet point
+            display: inline-block;
+            padding-right: 20px;
+            a{
+                text-decoration: none;//take away underline
+                padding: 10px;
+                
+            }//a
+            a:link, a:visited{
+                color: black;
+            }
+            a:hover, a:active{
+                color:white;
+                background: black;
+            }
+        }//li
+    }//ul
+}//nav
