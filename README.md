@@ -1,4 +1,4 @@
-**My Custom Boilplate HTML 5**
+**My Custom Boilerplate HTML 5**
 by Jason Fontillas
 
 _Description:_
