@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jason fontillas -- individual project
 
 # THANKS
 
-    <name>
+    to prof. david schaal
 
 # TECHNOLOGY COLOPHON
 
