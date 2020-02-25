@@ -2,3 +2,7 @@
 @import "mixins.scss";
 @import "base.scss";
 @import "layout.scss";
+
+body{
+    background: $backgroundcolor ;
+}
