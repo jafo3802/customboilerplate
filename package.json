@@ -1,0 +1,25 @@
+{
+  "name": "customboilerplate",
+  "version": "1.0.0",
+  "description": "**My Custom Boilerplate HTML 5**\r by Jason Fontillas",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafo3802/customboilerplate.git"
+  },
+  "keywords": [],
+  "author": "Jason Fontillas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jafo3802/customboilerplate/issues"
+  },
+  "homepage": "https://github.com/jafo3802/customboilerplate#readme"
+}
