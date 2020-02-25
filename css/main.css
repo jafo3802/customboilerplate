@@ -39,6 +39,24 @@ main {
   -webkit-order-radius: 15px;
   border-radius: 15px;
   text-align: center; }
+  main ul {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 100px 100px 100px;
+    grid-gap: 10px;
+    padding: 10px; }
+    main ul li {
+      list-style: none;
+      display: inline-block;
+      padding-right: 20px; }
+      main ul li a {
+        text-decoration: none;
+        padding: 10px; }
+      main ul li a:link, main ul li a:visited {
+        color: black; }
+      main ul li a:hover, main ul li a:active {
+        color: white;
+        background: black; }
 
 .container {
   display: grid;
